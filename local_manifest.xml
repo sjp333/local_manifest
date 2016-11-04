@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="sjp333/android_device_lge_h830" path="device/lge/h830" remote="github" />
+  <project name="sjp333/android_device_lge_g5-common" path="device/lge/g5-common" remote="github" />
+  <project name="sjp333/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="sjp333/proprietary_vendor_lge" path="vendor/lge" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" />
+</manifest>
