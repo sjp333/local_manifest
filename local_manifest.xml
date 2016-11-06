@@ -7,4 +7,7 @@
   <project name="sjp333/proprietary_vendor_lge" path="vendor/lge" remote="github" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" />
   <project name="sjp333/android_prebuilts_clang_linux-x86_host_sdclang-3.8" path="prebuilts/clang/linux-x86/host/sdclang-3.8" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" />
 </manifest>
